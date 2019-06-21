@@ -1,0 +1,12 @@
+{
+    "oracle" : {
+        "lis" : {
+            "lang" : "JAPANESE_JAPAN.AL32UTF8",
+            "server_address" : "dwdb.dad-way.local",
+            "port" : "1521",
+            "instance_name" : "DWDB01",
+            "username" : "lis",
+            "password" : "lis"
+        }
+    }
+}
